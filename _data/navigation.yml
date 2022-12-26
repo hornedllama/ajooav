@@ -19,8 +19,6 @@ en: &DEFAULT_EN
       section: about
     - title: "HISTORY"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "견적의뢰"
       section: contact
 en-US:
