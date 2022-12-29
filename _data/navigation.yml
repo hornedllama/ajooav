@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "회사소개"
       section: about
-    - title: "HISTORY"
-      section: timeline
     - title: "견적의뢰"
       section: contact
 en-US:
